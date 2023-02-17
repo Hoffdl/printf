@@ -1,10 +1,9 @@
-
 #include "main.h"
 
 /**
  * _printf - output is given according to a specific format
  * @format: format str containing the chars and the specifiers
- * Description: this function will call the get_print() function that 
+ * Description: this function will call the get_print() function that
  * determines the print fxn to call depending on the conversion
  * specifiers contained into fmt
  * Return: length of the formatted output str
